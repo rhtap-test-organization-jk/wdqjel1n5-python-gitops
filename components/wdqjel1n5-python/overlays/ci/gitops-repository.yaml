@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wdqjel1n5-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/wdqjel1n5-python-gitops
